@@ -1,0 +1,11 @@
+COMP SCI 2XB3
+Shivam Taneja
+400160537
+The work being submitted is my own work - 18th February 2019
+SortTest.java - The file does not contain testing of 2^14 and 2^16 size of array as it was 
+	not stated in the assignment to test them. Although My code is capable of sorting them.
+Gen.java - Changed for macOS (Linux)
+Do ignore the warnings, they are not bugs. 
+Quick.java - this method is not tested as specified in assignment.
+All sort functions were inspired by the textbook "Algorithm"
+reference: http://bigocheatsheet.com/

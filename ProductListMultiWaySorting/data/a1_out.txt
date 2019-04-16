@@ -1,0 +1,14 @@
+In descending order of performance of different sorting methods:
+1. HeapSort
+2. MergeTD
+3. MergeBU
+4. Insertion - binary
+5. Insertion - compare
+6. Insertion - basic
+
+Explanation: 
+Since the Big-O notation of HeapSort and both Merge sort is similar, the output
+is as expected, is very similar. difference of 22ms in 2^16 array is size is negligible difference. 
+While other sorting methods started to struggle as the array size increased, these 3 sorting methods showed almost
+a small a slope. Unlike merge sort, Heap sort does not require massive recursion. Merge sort is supposed 
+to be faster for larger sets but requires twice the memory of the HeapSort. 
